@@ -1,5 +1,5 @@
 # MS-Excel-project
-Ethencity Store Data Analysis live project using MS Excel
+Ethnicity Store Data Analysis live project using MS Excel
 
 **Questions**
 Compare the sales and orders using a single chart
